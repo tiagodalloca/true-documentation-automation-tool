@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "true-documentation-automation-tool": {
+      "commandName": "Project",
+      "commandLineArgs": "../../"
+    }
+  }
+}
